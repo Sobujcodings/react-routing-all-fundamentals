@@ -1,0 +1,18 @@
+
+/* jsx e Link likhleo ekhaane use korte hobe a anchor hishebe */
+
+ nav a {
+    
+    text-decoration: none;
+    color: #000000;
+    margin: 100px;
+    text-align: center;
+}
+
+.navbar{
+    background-color: rgb(169, 199, 243);
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+    display: flex;
+}

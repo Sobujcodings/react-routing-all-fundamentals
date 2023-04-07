@@ -1,0 +1,10 @@
+.cards{
+    background-color: rgb(219, 235, 235);
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 5px;
+}
+
+.friendsnum{
+    text-align: center;
+}

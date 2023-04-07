@@ -1,0 +1,9 @@
+
+      
+      //*** total 3 ta component lagbe dynamic data show koranor  jonno
+      // 1. for AllData (like users)     ekhane shob data k map kore singledata compo t padhiye dibo
+      // 2. for singleData (like user)    ekhane single data guloke UI t dekhabo. and singledataDetails e dynamically id pathabo
+      // 3.for dynamic singleDataDetails  dynamic id ta get kore singleDetails r jonno arek compo t dekhabo
+
+      //*** R route lagbe 2 ta posts(first to fetch all data then send to posts compo) and  postId(for dynamic one)
+
